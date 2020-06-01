@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Chess</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/images/blackBishop.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/blackBishop.png</location>
+		</link>
+		<link>
+			<name>src/images/blackKing.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/blackKing.png</location>
+		</link>
+		<link>
+			<name>src/images/blackKnight.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/blackKnight.png</location>
+		</link>
+		<link>
+			<name>src/images/blackPawn.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/blackPawn.png</location>
+		</link>
+		<link>
+			<name>src/images/blackQueen.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/blackQueen.png</location>
+		</link>
+		<link>
+			<name>src/images/blackRook.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/blackRook.png</location>
+		</link>
+		<link>
+			<name>src/images/blackSquare.jpg</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/blackSquare.jpg</location>
+		</link>
+		<link>
+			<name>src/images/whiteBishop.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/whiteBishop.png</location>
+		</link>
+		<link>
+			<name>src/images/whiteKing.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/whiteKing.png</location>
+		</link>
+		<link>
+			<name>src/images/whiteKnight.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/whiteKnight.png</location>
+		</link>
+		<link>
+			<name>src/images/whitePawn.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/whitePawn.png</location>
+		</link>
+		<link>
+			<name>src/images/whiteQueen.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/whiteQueen.png</location>
+		</link>
+		<link>
+			<name>src/images/whiteRook.png</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/whiteRook.png</location>
+		</link>
+		<link>
+			<name>src/images/whiteSquare.jpg</name>
+			<type>1</type>
+			<location>C:/Users/chris/Desktop/School/Term 2/COMP 2522/Assignments/2a/images/whiteSquare.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
